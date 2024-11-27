@@ -2,7 +2,7 @@
 //  TranslateMeApp.swift
 //  TranslateMe
 //
-//  Created by Jose Folgar on 3/31/24.
+// 
 //
 
 import SwiftUI
