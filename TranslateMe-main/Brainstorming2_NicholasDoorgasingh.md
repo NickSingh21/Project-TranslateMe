@@ -1,7 +1,7 @@
 # Mobile App Dev - App Brainstorming
 ## App Idea Thunderdome
 
-Jose Folgar:
+Nicholas Doorgasingh:
 
 **1. Movie APP**
 * The app is for keeping up to date with recent movies
