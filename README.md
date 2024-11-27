@@ -31,7 +31,9 @@ Here's a walkthrough of implemented user stories:
 
 
 
-https://github.com/user-attachments/assets/757d5813-783b-4701-9656-56b8f694e220
+
+https://github.com/user-attachments/assets/b5ca6f01-6308-4370-814c-e13a0260bb41
+
 
 
 ## Notes
